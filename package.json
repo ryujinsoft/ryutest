@@ -1,0 +1,16 @@
+{
+  "name": "ryutest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "creditcard-generator": "0.0.7",
+    "faker": "^5.4.0",
+    "puppeteer": "^8.0.0"
+  }
+}
